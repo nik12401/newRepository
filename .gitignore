@@ -2,3 +2,5 @@
 folder2/*.html
 subfolder1/*[0-9].php
 folder3/**/*.php
+git remote add origin https://github.com/nik12401/newRepository.git
+git push -u origin master
