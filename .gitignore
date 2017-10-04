@@ -1,0 +1,4 @@
+/nbproject
+folder2/*.html
+subfolder1/*[0-9].php
+folder3/**/*.php
